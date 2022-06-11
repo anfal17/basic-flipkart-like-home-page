@@ -1,0 +1,11 @@
+/* put in container like footer */
+.flexcenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-1{
+    padding: 3px 0;
+    text-align: center;
+}
