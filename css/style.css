@@ -84,6 +84,7 @@ main {
 
 .container {
   min-height: calc(100vh - 7vh - 7vh);
+  margin:20px;
 }
 
 .slider {
